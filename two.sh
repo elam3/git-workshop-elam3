@@ -36,7 +36,7 @@
 #
 # e.g. --time="2-0:1:2" # Request for two days, zero hours, 1 minute, 2 seconds
 #
-#SBATCH --time="2-0:1:2"
+#SBATCH --time="2-3:1:2"
 # Get email notifications when your jobs start/end.
 #SBATCH --mail-user=suiwenw@unr.edu
 #SBATCH --mail-type=all
